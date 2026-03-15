@@ -1,0 +1,24 @@
+﻿Analyzing mauri_in...                                           
+
+warning - The receiver can't be null, so the null-aware operator '?.' is unnecessary - lib\features\profile\presentation\profile_screen.dart:66:48 - invalid_null_aware_operator
+   info - Don't invoke 'print' in production code - test\pure_textfield_test.dart:7:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\pure_textfield_test.dart:8:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\pure_textfield_test.dart:44:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\pure_textfield_test.dart:46:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\pure_textfield_test.dart:47:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:10:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:11:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:22:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:24:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:25:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:31:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:32:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:43:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:45:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\textfield_test.dart:46:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\theme_textfield_test.dart:8:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\theme_textfield_test.dart:9:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\theme_textfield_test.dart:34:7 - avoid_print
+   info - Don't invoke 'print' in production code - test\theme_textfield_test.dart:36:7 - avoid_print
+
+20 issues found. (ran in 5.2s)

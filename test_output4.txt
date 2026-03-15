@@ -1,0 +1,4 @@
+00:00 +0: loading C:/Users/moust/OneDrive/Desktop/mauri_in/test/theme_textfield_test.dart
+00:00 +0: Test TextField with AppTheme directly
+Isolated TextField rendered successfully with AppTheme.
+00:00 +1: All tests passed!

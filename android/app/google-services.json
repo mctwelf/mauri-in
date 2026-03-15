@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "165672745642",
+    "project_id": "mauri-in",
+    "storage_bucket": "mauri-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165672745642:android:8db25771b6a8546b9c2ed3",
+        "android_client_info": {
+          "package_name": "com.mauriin.mauri_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165672745642-2aari9vck9fh9qu7ei6m7vm6qacjsmgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mauriin.mauri_in",
+            "certificate_hash": "153c231f60f5457f631fc3203d64b606eaed723c"
+          }
+        },
+        {
+          "client_id": "165672745642-81d95e494mp1fakr3ps08hbkhvqcii83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNG_Zc6krBiwh6SSXjjX4GB9Z0iH-p80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165672745642-81d95e494mp1fakr3ps08hbkhvqcii83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165672745642-jug4l0poakee0g0680b5f20pc0bqq3vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mauriin.mauriIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

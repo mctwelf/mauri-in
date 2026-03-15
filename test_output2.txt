@@ -1,0 +1,4 @@
+00:00 +0: loading C:/Users/moust/OneDrive/Desktop/mauri_in/test/pure_textfield_test.dart
+00:00 +0: Test TextField for exceptions
+TextField rendered successfully.
+00:00 +1: All tests passed!

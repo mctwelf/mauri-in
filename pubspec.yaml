@@ -1,0 +1,70 @@
+name: mauri_in
+description: "MauriIn - Social marketplace for Mauritania"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+  # UI
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.17
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  smooth_page_indicator: ^1.2.0+3
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_animate: ^4.5.2
+  iconsax: ^0.0.8
+  lottie: ^3.3.1
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+
+  # Navigation
+  go_router: ^14.8.1
+
+  # Storage
+  shared_preferences: ^2.3.4
+  firebase_core: ^4.5.0
+  firebase_auth: ^6.2.0
+  cloud_firestore: ^6.1.3
+  firebase_storage: ^13.1.0
+  google_sign_in: ^7.2.0
+
+  # Firebase (add later when configuring)
+  # firebase_core: ^3.12.1
+  # firebase_auth: ^5.5.1
+  # cloud_firestore: ^5.6.5
+  # firebase_storage: ^12.4.4
+  # firebase_messaging: ^15.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  riverpod_generator: ^2.6.3
+  build_runner: ^2.4.14
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "c:/Users/moust/OneDrive/Desktop/mauri_in/icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animations/
